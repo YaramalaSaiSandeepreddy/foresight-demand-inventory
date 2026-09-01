@@ -1,0 +1,8 @@
+__pycache__/
+.streamlit/
+work/
+data/raw/
+
+.venv/
+.python_packages/
+work/
