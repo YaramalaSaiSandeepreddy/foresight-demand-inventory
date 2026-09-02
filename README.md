@@ -1,4 +1,4 @@
-# Project FORESIGHT(lIve DEPLOYMENT LINK https://foresight-northbay.streamlit.app/)
+# Project FORESIGHT(Live DEPLOYMENT LINK https://foresight-northbay.streamlit.app/)
 
 Demand & Inventory Intelligence for NorthBay Living.
 
