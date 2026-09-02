@@ -1,4 +1,6 @@
 # Project FORESIGHT(Live DEPLOYMENT LINK https://foresight-northbay.streamlit.app/)
+DEMO VIDEO LINK -https://drive.google.com/file/d/1E3q1Dgeuf7lv6qMzkdRMnQgkTixswmBz/view?usp=drive_link
+FEEDBACK VIDEO LINK - https://drive.google.com/file/d/1wLq1sHzmtwd1rrdtvntgNK8U07vSgRaF/view?usp=sharing
 
 Demand & Inventory Intelligence for NorthBay Living.
 
